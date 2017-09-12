@@ -1,4 +1,4 @@
 # OOP
 
 
-Savul Slava POIT-5 
+Savul Slava POIT-5
